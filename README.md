@@ -1,4 +1,4 @@
-# Code-Quiz
+# Day-Planner
 
 ## Website URL: https://sushmakaluva.github.io/Day-Planner/
 
